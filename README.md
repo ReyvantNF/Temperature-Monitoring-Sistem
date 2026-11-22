@@ -1,10 +1,12 @@
-Kelompok Paus
 
-Anggota kelompok:
-Reyvant Naufal Faza (ketua) - 101012500014
-Raya Permana Elfaris
-Celcia Artika Saputri
-Shakilla laiqa Andrisma
+## Anggota Kelompok
+
+| No | Nama | NIM | Peran |
+|---|---|---|---|
+| 1 | Reyvant Naufal Faza | 101012500014 | Ketua |
+| 2 | Raya Permana Elfaris  | Anggota |
+| 3 | Celcia Artika Saputri | Anggota |
+| 4 | Shakilla Laiqa Andrisma | Anggota |
 
 # Sistem Monitoring Suhu IoT (ESP32 + MQTT + Telegram)
 
